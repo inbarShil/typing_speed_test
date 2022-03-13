@@ -1,3 +1,5 @@
+# important note: In order to play you will to pip install curse. 
+
 # This game calculates your typing speed.
 # The calculation is in WPM.
 
