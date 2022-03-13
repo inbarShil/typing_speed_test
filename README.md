@@ -1,4 +1,4 @@
-# important note: In order to play you will to pip install curse. 
+# important note: In order to play you will to pip install curse, and run it from your command propmt.
 
 # This game calculates your typing speed.
 # The calculation is in WPM.
